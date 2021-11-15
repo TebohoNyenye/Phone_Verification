@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">verificationphone</string>
+    <string name="text_with_paragraphs">By tapping "VERRIFY PHONE\n NUMBER", an SMS to confirm your\n number will be sent, message and\n data rates may apply.</string>
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Deleting file may be harm your system</string>
+</resources>
